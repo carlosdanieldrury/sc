@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_200">#d50000</color>
+    <color name="red_dark">#9b0000</color>
+    <color name="red_light">#ff5131</color>
+    <color name="circle_background_color">#d50000</color>
+</resources>
